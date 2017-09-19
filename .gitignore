@@ -1,0 +1,8 @@
+/.vs/CodingGame/v14/.suo
+/_NCrunch_CodingGame
+*.user
+bin
+obj
+/packages
+*.ncrunchproject
+*.ncrunchsolution
